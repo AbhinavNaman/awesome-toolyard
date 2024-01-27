@@ -13,7 +13,7 @@ Contributions are welcome. Add links through pull requests or create an issue to
   - [Rust](#rust)
   - [AI Tools](#ai-tools)
   - [Cool Utilities](#cool-utilities)
-  - Javascript Interview Question
+  - [Javascript Interview Question](#Javascript-Interview-Question)
 
 
 ## Programming Languages
